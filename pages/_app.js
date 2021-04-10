@@ -1,4 +1,5 @@
 import { createGlobalStyle, ThemeProvider } from 'styled-components'
+import '@atlaskit/css-reset'
 
 const GlobalStyle = createGlobalStyle`
   body {
